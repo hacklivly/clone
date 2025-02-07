@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://www.airtalk.live/sitemap.xml
+Sitemap: "not created yet"
 
